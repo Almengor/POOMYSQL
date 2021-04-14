@@ -1,0 +1,22 @@
+﻿  Cliente.cpp
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(128,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(131,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(134,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(137,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(140,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+  Crud_mysql.cpp
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(128,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(131,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(134,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(137,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(140,14): error C2374: 'modificar': nueva definición; inicialización múltiple
+C:\Users\HP14DQ0006LA\Documents\Programacion I\Visual Studio\mysqlcrud\Crud_mysql\Crud_mysql\Cliente.h(124): message : vea la declaración de 'modificar'
